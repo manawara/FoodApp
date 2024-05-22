@@ -29,7 +29,7 @@ git clone https://github.com/mnawara/FoodApp.git
 ```
 yarn install
 
-yarn start
+yarn dev
 ```
 ###
 
@@ -39,7 +39,7 @@ yarn start
 ```
 npm install
 
-npm run start
+npm run dev
 ```
 ###
 
